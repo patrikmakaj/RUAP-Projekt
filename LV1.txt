@@ -1,1 +1,2 @@
 Pozdrav iz aplikacije od Patrik Makaj
+PROMJENA ZA GIT CHERRY-PICK
